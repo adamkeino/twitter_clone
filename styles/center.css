@@ -1,0 +1,23 @@
+.center-subgrid {
+    background-color: lightpink;
+    margin-left: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 200;
+}
+.top-center {
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 100px;
+    justify-content: bottom;
+    margin-left: 250px;
+    margin-right: 339px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
