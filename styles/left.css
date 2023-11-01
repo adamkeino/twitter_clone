@@ -10,18 +10,29 @@
     color: white;
     height: 700px;
     z-index: 100;
-    padding-left: 2%;
+    /* padding-left: 2%; */
 }
 .twitter-logo {
     height: 50px;
     padding: 10px;
 }
 .left-icon {
-    height: 35px;
+    height: 30px;
+    padding: 10px;
+}
+.left-logo-holder {
+    cursor: pointer;
+    margin-left: 10%;
 }
 
 .left-icon-holder {
     display: flex;
     flex-direction: row;
     align-items: center;
+    cursor: pointer;
+    transition: background-color 0.4s;
+    padding-left: 3%;
+}
+.left-icon-holder:hover {
+    background-color: lightslategray;
 }

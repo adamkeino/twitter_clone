@@ -14,10 +14,10 @@
     top: 0;
     right: 0;
     left: 0;
-    height: 100px;
+    height: 90px;
     justify-content: bottom;
-    margin-left: 18%;
-    margin-right: 339px;
+    margin-left: 16%;
+    /* margin-right: 339px; */
     color: white;
     display: flex;
     flex-direction: column;
