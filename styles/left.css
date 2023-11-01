@@ -34,7 +34,7 @@
     padding-left: 3%;
 }
 .left-icon-holder:hover {
-    background-color: lightslategray;
+    background-color: rgba(202, 196, 196, 0.3);
 }
 .left-button-holder {
     display: flex;
